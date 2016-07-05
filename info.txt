@@ -1,0 +1,26 @@
+思源,思源黑,思源黑体,noto | cjk-fonts/Noto/NotoSansHans-Regular.ttf
+- +1 | cjk-fonts/Noto/NotoSansHans-Medium.ttf
+- +2 | cjk-fonts/Noto/NotoSansHans-Bold.ttf
+- +3 | cjk-fonts/Noto/NotoSansHans-Black.ttf
+- -1 | cjk-fonts/Noto/NotoSansHans-DemiLight.ttf
+- -2 | cjk-fonts/Noto/NotoSansHans-Light.ttf
+- -3 | cjk-fonts/Noto/NotoSansHans-Thin.ttf
+
+花园,花园明朝,花园明朝体,hanazono | cjk-fonts/hanazono/HanaMinA.ttf
+- +1 | cjk-fonts/hanazono/HanaMinB.ttf
+
+
+静嘉,静嘉黑,静嘉正黑,静嘉正黑体,zenjia,zenjiahei | cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf
+
+文泉驿,文泉驿微米,文泉驿黑,文泉驿微米黑,文泉驿微米黑体,wqy,wqyhei,wqymicrohei | gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc
+
+王汉宗中魏碑体,王汉宗中魏碑,中魏碑,魏碑,weibei,zhongweibei | gpl-cjk-fonts/wang/wts43.ttf
+
+王汉宗细新宋体,新宋体,新宋,xinsong,xinsongti | gpl-cjk-fonts/wang/wts55.ttf
+
+王汉宗细黑体,王汉宗细黑,王汉宗黑体,wxihei,whei | gpl-cjk-fonts/wang/wt011.ttf
+- +1 | gpl-cjk-fonts/wang/wt014.ttf
+
+王汉宗超明体,王汉宗超明,超明,明体,chaomingti,chaoming,mingti | gpl-cjk-fonts/wang/wt005.ttf
+
+王汉宗颜楷,王汉宗颜楷体,颜楷体,颜楷,yankaiti,yankai,wyangkaiti,wyankai | gpl-cjk-fonts/wang/wt064.ttf
