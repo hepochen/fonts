@@ -1,346 +1,346 @@
 {
     "zenjiahei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "whei+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt014.ttf", 
+        "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
     ], 
     "\u738b\u6c49\u5b97\u9ed1\u4f53+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt014.ttf", 
+        "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
     ], 
     "mingti": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "\u9759\u5609\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "wxihei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt011.ttf", 
+        "gpl-cjk-fonts/wang/wt011.ttf", 
         "8304f6c4b257d4341293b27efa68f952"
     ], 
     "\u738b\u6c49\u5b97\u8d85\u660e\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "chaomingti": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "yankai": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "wqymicrohei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u738b\u6c49\u5b97\u7ec6\u65b0\u5b8b\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts55.ttf", 
+        "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
     ], 
     "hanazono": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinA.ttf", 
+        "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
     ], 
     "xinsong": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts55.ttf", 
+        "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
     ], 
     "\u601d\u6e90-1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
         "bcd3e3ab736cc3b2be5c5d5a5bdbe0f2"
     ], 
     "\u601d\u6e90-2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Light.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Light.ttf", 
         "48d3c43767d2ce53b0660f9b9a0fcec0"
     ], 
     "\u601d\u6e90-3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
         "9896987964ff9d804aef5b30feaf480f"
     ], 
     "hanazono+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinB.ttf", 
+        "cjk-fonts/hanazono/HanaMinB.ttf", 
         "116796f6726f8f9c409bca403f5b0ad7"
     ], 
     "xinsongti": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts55.ttf", 
+        "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
     ], 
     "\u601d\u6e90\u9ed1+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
         "f0b479e28248e79ccc9db3ada81d9ede"
     ], 
     "\u601d\u6e90\u9ed1+2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
         "61f495884d8e449b82653172fb2a837b"
     ], 
     "\u601d\u6e90\u9ed1+3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Black.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Black.ttf", 
         "03b62e1b9a58e3552564ffa44b27f48d"
     ], 
     "\u601d\u6e90": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
         "de23ab7bc39e5c5ad962c505c0f8b9c8"
     ], 
     "\u738b\u6c49\u5b97\u7ec6\u9ed1+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt014.ttf", 
+        "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
     ], 
     "zhongweibei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "\u738b\u6c49\u5b97\u9ed1\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt011.ttf", 
+        "gpl-cjk-fonts/wang/wt011.ttf", 
         "8304f6c4b257d4341293b27efa68f952"
     ], 
     "\u82b1\u56ed\u660e\u671d+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinB.ttf", 
+        "cjk-fonts/hanazono/HanaMinB.ttf", 
         "116796f6726f8f9c409bca403f5b0ad7"
     ], 
     "\u738b\u6c49\u5b97\u8d85\u660e": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "\u6587\u6cc9\u9a7f\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u6587\u6cc9\u9a7f\u5fae\u7c73\u9ed1\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u65b0\u5b8b": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts55.ttf", 
+        "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
     ], 
     "wqyhei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u82b1\u56ed\u660e\u671d\u4f53+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinB.ttf", 
+        "cjk-fonts/hanazono/HanaMinB.ttf", 
         "116796f6726f8f9c409bca403f5b0ad7"
     ], 
     "\u9759\u5609": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "chaoming": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "\u601d\u6e90\u9ed1\u4f53+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
         "f0b479e28248e79ccc9db3ada81d9ede"
     ], 
     "\u601d\u6e90\u9ed1\u4f53+2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
         "61f495884d8e449b82653172fb2a837b"
     ], 
     "\u601d\u6e90\u9ed1\u4f53+3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Black.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Black.ttf", 
         "03b62e1b9a58e3552564ffa44b27f48d"
     ], 
     "\u601d\u6e90\u9ed1\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
         "de23ab7bc39e5c5ad962c505c0f8b9c8"
     ], 
     "yankaiti": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "wxihei+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt014.ttf", 
+        "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
     ], 
     "\u989c\u6977\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "\u9759\u5609\u6b63\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "wqy": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u738b\u6c49\u5b97\u989c\u6977": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "\u601d\u6e90\u9ed1-2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Light.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Light.ttf", 
         "48d3c43767d2ce53b0660f9b9a0fcec0"
     ], 
     "\u601d\u6e90\u9ed1-3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
         "9896987964ff9d804aef5b30feaf480f"
     ], 
     "\u601d\u6e90\u9ed1-1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
         "bcd3e3ab736cc3b2be5c5d5a5bdbe0f2"
     ], 
     "\u738b\u6c49\u5b97\u7ec6\u9ed1\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt011.ttf", 
+        "gpl-cjk-fonts/wang/wt011.ttf", 
         "8304f6c4b257d4341293b27efa68f952"
     ], 
     "\u6587\u6cc9\u9a7f": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "\u9759\u5609\u6b63\u9ed1\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "\u82b1\u56ed": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinA.ttf", 
+        "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
     ], 
     "\u8d85\u660e": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ], 
     "\u82b1\u56ed+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinB.ttf", 
+        "cjk-fonts/hanazono/HanaMinB.ttf", 
         "116796f6726f8f9c409bca403f5b0ad7"
     ], 
     "\u601d\u6e90\u9ed1\u4f53-2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Light.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Light.ttf", 
         "48d3c43767d2ce53b0660f9b9a0fcec0"
     ], 
     "\u601d\u6e90\u9ed1\u4f53-3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
         "9896987964ff9d804aef5b30feaf480f"
     ], 
     "\u601d\u6e90\u9ed1\u4f53-1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
         "bcd3e3ab736cc3b2be5c5d5a5bdbe0f2"
     ], 
     "\u82b1\u56ed\u660e\u671d": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinA.ttf", 
+        "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
     ], 
     "\u601d\u6e90\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
         "de23ab7bc39e5c5ad962c505c0f8b9c8"
     ], 
     "\u4e2d\u9b4f\u7891": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "\u82b1\u56ed\u660e\u671d\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/hanazono/HanaMinA.ttf", 
+        "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
     ], 
     "\u738b\u6c49\u5b97\u7ec6\u9ed1\u4f53+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt014.ttf", 
+        "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
     ], 
     "\u989c\u6977": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "whei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt011.ttf", 
+        "gpl-cjk-fonts/wang/wt011.ttf", 
         "8304f6c4b257d4341293b27efa68f952"
     ], 
     "\u6587\u6cc9\u9a7f\u5fae\u7c73\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "noto-3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Thin.ttf", 
         "9896987964ff9d804aef5b30feaf480f"
     ], 
     "noto-2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Light.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Light.ttf", 
         "48d3c43767d2ce53b0660f9b9a0fcec0"
     ], 
     "noto-1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
         "bcd3e3ab736cc3b2be5c5d5a5bdbe0f2"
     ], 
     "wyankai": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "noto": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Regular.ttf", 
         "de23ab7bc39e5c5ad962c505c0f8b9c8"
     ], 
     "\u9b4f\u7891": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "\u738b\u6c49\u5b97\u4e2d\u9b4f\u7891\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "\u65b0\u5b8b\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts55.ttf", 
+        "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
     ], 
     "noto+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
         "f0b479e28248e79ccc9db3ada81d9ede"
     ], 
     "noto+3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Black.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Black.ttf", 
         "03b62e1b9a58e3552564ffa44b27f48d"
     ], 
     "noto+2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
         "61f495884d8e449b82653172fb2a837b"
     ], 
     "\u601d\u6e90+2": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Bold.ttf", 
         "61f495884d8e449b82653172fb2a837b"
     ], 
     "\u601d\u6e90+3": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Black.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Black.ttf", 
         "03b62e1b9a58e3552564ffa44b27f48d"
     ], 
     "\u601d\u6e90+1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
+        "cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
         "f0b479e28248e79ccc9db3ada81d9ede"
     ], 
     "zenjia": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
+        "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
     ], 
     "\u738b\u6c49\u5b97\u989c\u6977\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "\u738b\u6c49\u5b97\u4e2d\u9b4f\u7891": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "\u6587\u6cc9\u9a7f\u5fae\u7c73": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
+        "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
     ], 
     "weibei": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wts43.ttf", 
+        "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
     ], 
     "wyangkaiti": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt064.ttf", 
+        "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
     "\u738b\u6c49\u5b97\u7ec6\u9ed1": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt011.ttf", 
+        "gpl-cjk-fonts/wang/wt011.ttf", 
         "8304f6c4b257d4341293b27efa68f952"
     ], 
     "\u660e\u4f53": [
-        "/Users/hepochen/Dev/DC/purebox/fonts/gpl-cjk-fonts/wang/wt005.ttf", 
+        "gpl-cjk-fonts/wang/wt005.ttf", 
         "55f218b03f295959e3ea53ef2567813f"
     ]
 }
