@@ -203,6 +203,10 @@
         "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
     ], 
+    "\u5b8b": [
+        "gpl-cjk-fonts/fandol/FandolSong-Regular.ttf", 
+        "04126288bbfd78dc92c7db824ce014d7"
+    ], 
     "\u601d\u6e90\u9ed1-2": [
         "cjk-fonts/Noto/NotoSansHans-Light.ttf", 
         "48d3c43767d2ce53b0660f9b9a0fcec0"
@@ -406,6 +410,10 @@
     "weibei": [
         "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
+    ], 
+    "\u5b8b+1": [
+        "gpl-cjk-fonts/fandol/FandolSong-Bold.ttf", 
+        "d8dfa1c4095a84769f7840d5e39fe717"
     ], 
     "wyangkaiti": [
         "gpl-cjk-fonts/wang/wt064.ttf", 
