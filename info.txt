@@ -29,5 +29,5 @@ fang,仿宋,fangsong | gpl-cjk-fonts/fandol/FandolFang-Regular.ttf
 fandolhei,黑,hei | gpl-cjk-fonts/fandol/FandolHei-Regular.ttf
 - +1 | gpl-cjk-fonts/fandol/FandolHei-Bold.ttf
 kai,楷体 | gpl-cjk-fonts/fandol/FandolKai-Regular.ttf
-fandosong,songti,song,宋,宋体 | gpl-cjk-fonts/fandol/FandolSong-Regular.ttf
+fandolsong,songti,song,宋,宋体 | gpl-cjk-fonts/fandol/FandolSong-Regular.ttf
 - +1 | gpl-cjk-fonts/fandol/FandolSong-Bold.ttf
