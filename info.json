@@ -7,6 +7,10 @@
         "gpl-cjk-fonts/fandol/FandolSong-Regular.ttf", 
         "04126288bbfd78dc92c7db824ce014d7"
     ], 
+    "fandol\u5b8b\u4f53+1": [
+        "gpl-cjk-fonts/fandol/FandolSong-Bold.ttf", 
+        "d8dfa1c4095a84769f7840d5e39fe717"
+    ], 
     "whei+1": [
         "gpl-cjk-fonts/wang/wt014.ttf", 
         "c9c90ee32f0610d69d6ea2e7f9d6022b"
@@ -51,6 +55,10 @@
         "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
     ], 
+    "fandol\u9ed1\u4f53": [
+        "gpl-cjk-fonts/fandol/FandolHei-Regular.ttf", 
+        "0290d751b7b853192c1e0141afc15288"
+    ], 
     "xinsong": [
         "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
@@ -58,6 +66,10 @@
     "song": [
         "gpl-cjk-fonts/fandol/FandolSong-Regular.ttf", 
         "04126288bbfd78dc92c7db824ce014d7"
+    ], 
+    "fandol\u9ed1": [
+        "gpl-cjk-fonts/fandol/FandolHei-Regular.ttf", 
+        "0290d751b7b853192c1e0141afc15288"
     ], 
     "\u601d\u6e90-1": [
         "cjk-fonts/Noto/NotoSansHans-DemiLight.ttf", 
@@ -78,6 +90,10 @@
     "xinsongti": [
         "gpl-cjk-fonts/wang/wts55.ttf", 
         "9cf0462a3584b54ab239254a9d54103a"
+    ], 
+    "fandol\u5b8b": [
+        "gpl-cjk-fonts/fandol/FandolSong-Regular.ttf", 
+        "04126288bbfd78dc92c7db824ce014d7"
     ], 
     "\u9ed1+1": [
         "gpl-cjk-fonts/fandol/FandolHei-Bold.ttf", 
@@ -134,6 +150,10 @@
     "wqyhei": [
         "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
         "966af48e02884546677a2f762f6725b9"
+    ], 
+    "fandol\u5b8b\u4f53": [
+        "gpl-cjk-fonts/fandol/FandolSong-Regular.ttf", 
+        "04126288bbfd78dc92c7db824ce014d7"
     ], 
     "fang": [
         "gpl-cjk-fonts/fandol/FandolFang-Regular.ttf", 
@@ -198,6 +218,10 @@
     "\u9759\u5609\u6b63\u9ed1": [
         "cjk-fonts/ZenJia/ZenJiaHei-Regular.ttf", 
         "806c81b798ca2e43ac8215a0198a1ef3"
+    ], 
+    "fandol\u6977\u4f53": [
+        "gpl-cjk-fonts/fandol/FandolKai-Regular.ttf", 
+        "b58a2b10a2f46d405b06b15c0588b4ba"
     ], 
     "wqy": [
         "gpl-cjk-fonts/wqy-microhei/wqy-microhei.ttc", 
@@ -295,6 +319,10 @@
         "gpl-cjk-fonts/fandol/FandolSong-Bold.ttf", 
         "d8dfa1c4095a84769f7840d5e39fe717"
     ], 
+    "fandol\u4eff\u5b8b": [
+        "gpl-cjk-fonts/fandol/FandolFang-Regular.ttf", 
+        "2f2d605c93f14289132c42a23d595be5"
+    ], 
     "\u82b1\u56ed\u660e\u671d": [
         "cjk-fonts/hanazono/HanaMinA.ttf", 
         "9506f214c0a83b4e9f2ceb57eeedd0cb"
@@ -318,6 +346,14 @@
     "\u989c\u6977": [
         "gpl-cjk-fonts/wang/wt064.ttf", 
         "df069bfe1626097b91c4b126910dcda5"
+    ], 
+    "fandol\u9ed1\u4f53+1": [
+        "gpl-cjk-fonts/fandol/FandolHei-Bold.ttf", 
+        "8992f25e58d0bff39c8d4e8362453463"
+    ], 
+    "fandol\u9ed1+1": [
+        "gpl-cjk-fonts/fandol/FandolHei-Bold.ttf", 
+        "8992f25e58d0bff39c8d4e8362453463"
     ], 
     "whei": [
         "gpl-cjk-fonts/wang/wt011.ttf", 
@@ -387,6 +423,10 @@
         "cjk-fonts/Noto/NotoSansHans-Black.ttf", 
         "ac34b6c16b8e7b73681de696c81efd58"
     ], 
+    "fandol\u5b8b+1": [
+        "gpl-cjk-fonts/fandol/FandolSong-Bold.ttf", 
+        "d8dfa1c4095a84769f7840d5e39fe717"
+    ], 
     "\u601d\u6e90+1": [
         "cjk-fonts/Noto/NotoSansHans-Medium.ttf", 
         "9a7aa96d147cba6fec35d0a49cfef6d5"
@@ -410,6 +450,10 @@
     "weibei": [
         "gpl-cjk-fonts/wang/wts43.ttf", 
         "3652cb384fa232c374c359656aeebe37"
+    ], 
+    "fandol\u6977": [
+        "gpl-cjk-fonts/fandol/FandolKai-Regular.ttf", 
+        "b58a2b10a2f46d405b06b15c0588b4ba"
     ], 
     "\u5b8b+1": [
         "gpl-cjk-fonts/fandol/FandolSong-Bold.ttf", 

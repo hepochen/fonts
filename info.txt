@@ -25,9 +25,9 @@
 
 王汉宗颜楷,王汉宗颜楷体,颜楷体,颜楷,yankaiti,yankai,wyangkaiti,wyankai | gpl-cjk-fonts/wang/wt064.ttf
 
-fang,仿宋,fangsong | gpl-cjk-fonts/fandol/FandolFang-Regular.ttf
-fandolhei,黑,hei | gpl-cjk-fonts/fandol/FandolHei-Regular.ttf
+fang,仿宋,fangsong,fandol仿宋 | gpl-cjk-fonts/fandol/FandolFang-Regular.ttf
+fandolhei,黑,hei,fandol黑,fandol黑体 | gpl-cjk-fonts/fandol/FandolHei-Regular.ttf
 - +1 | gpl-cjk-fonts/fandol/FandolHei-Bold.ttf
-kai,楷体 | gpl-cjk-fonts/fandol/FandolKai-Regular.ttf
-fandolsong,songti,song,宋,宋体 | gpl-cjk-fonts/fandol/FandolSong-Regular.ttf
+kai,楷体,fandol楷体,fandol楷 | gpl-cjk-fonts/fandol/FandolKai-Regular.ttf
+fandolsong,songti,song,宋,宋体,fandol宋,fandol宋体 | gpl-cjk-fonts/fandol/FandolSong-Regular.ttf
 - +1 | gpl-cjk-fonts/fandol/FandolSong-Bold.ttf
